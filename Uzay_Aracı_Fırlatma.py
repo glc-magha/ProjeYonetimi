@@ -1,4 +1,4 @@
-Bir uzay aracı fırlatma projesi, yüksek riskli ve maliyetli bir mühendislik mega projesidir
+"""Bir uzay aracı fırlatma projesi, yüksek riskli ve maliyetli bir mühendislik mega projesidir
 ve detaylı bir proje yönetimi süreci gerektirir. Bu süreçler genelde PMBOK
 (Project Management Body of Knowledge) veya NASA'nın proje yaşam döngüsü gibi standartlara dayanır.
 
@@ -104,4 +104,4 @@ MS Project / Primavera	Planlama ve zaman çizelgesi
 JIRA / Trello / Notion	Agile takibi
 MATLAB / Simulink	Sistem modelleme ve simülasyon
 Ansys / SolidWorks	Yapısal ve aerodinamik analiz
-Python / C++	Görev kontrol sistemleri, yer yazılımı
+Python / C++	Görev kontrol sistemleri, yer yazılımı"""
